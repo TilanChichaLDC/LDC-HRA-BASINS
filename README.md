@@ -1,2 +1,2 @@
 # LDC-HRA-BASINS
-List of basins which are flagged as "HRA"
+List of basins's polygon which are flagged as "HRA"
